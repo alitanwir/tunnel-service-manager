@@ -83,11 +83,11 @@ Tunnel Service Manager lets you expose your localhost to the internet using eith
 ## 🚀 Usage
 
 1. **Windows PowerShell:**  
-   Run [tunnel.ps1](/blob/master/windows/powershell/tunnel.ps1)
+   Run [tunnel.ps1](/windows/powershell/tunnel.ps1)
 2. **Windows Batch:**  
-   Run [tunnel.bat](/blob/master/windows/batch/tunnel.bat)
+   Run [tunnel.bat](/windows/batch/tunnel.bat)
 3. **Unix Shell:**  
-   Make executable and run [tunnel.sh](/blob/master/unix/shell/tunnel.sh)
+   Make executable and run [tunnel.sh](/unix/shell/tunnel.sh)
 
 Follow the interactive prompts to select service, tunnel type, and port.
 
