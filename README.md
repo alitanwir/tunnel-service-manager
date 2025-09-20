@@ -1,6 +1,3 @@
-# tunnel-service-manager
-Tunnel Service Manager to expose  your localhost using either ngrok or pinggy.io tunneling services.
-
 # 🚇 Tunnel Service Manager
 
 Tunnel Service Manager lets you expose your localhost to the internet using either **ngrok** or **pinggy.io** tunneling services. It provides interactive scripts for **Windows (PowerShell & Batch)** and **Unix (Shell)** environments.
@@ -86,11 +83,11 @@ Tunnel Service Manager lets you expose your localhost to the internet using eith
 ## 🚀 Usage
 
 1. **Windows PowerShell:**  
-   Run [tunnel.ps1](tunnel.ps1)
+   Run [tunnel.ps1](/blob/master/windows/powershell/tunnel.ps1)
 2. **Windows Batch:**  
-   Run [tunnel.bat](tunnel.bat)
+   Run [tunnel.bat](/blob/master/windows/batch/tunnel.bat)
 3. **Unix Shell:**  
-   Make executable and run [tunnel.sh](tunnel.sh)
+   Make executable and run [tunnel.sh](/blob/master/unix/shell/tunnel.sh)
 
 Follow the interactive prompts to select service, tunnel type, and port.
 
