@@ -357,7 +357,7 @@ Feel free to contribute to this project by:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -369,4 +369,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ by [Ali Tanwir](https://alitanwir.com) for developers who need quick and easy localhost tunneling on macOS and Linux!**
 
-For Windows users, see the PowerShell version: [tunnel.ps1](tunnel.ps1) and [README.md](README.md)
+For Windows users, see the PowerShell version: [tunnel.ps1](/windows/powershell/tunnel.ps1) and [README.md](/windows/powershell/README.md)

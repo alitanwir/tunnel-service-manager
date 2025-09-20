@@ -131,4 +131,4 @@ $env:PINGGY_TOKEN="your_pinggy_token_here"
 
 **Made with ❤️ by [Ali Tanwir](https://alitanwir.com) for developers who need quick and easy localhost tunneling!**
 
-For MacOS/Linux users, see the Shell version: [tunnel.sh](tunnel.sh) and [README.md](README.md)
+For MacOS/Linux users, see the Shell version: [tunnel.sh](/unix/shell/tunnel.sh) and [README.md](/unix/shell/README.md)
